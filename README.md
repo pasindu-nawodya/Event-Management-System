@@ -4,16 +4,16 @@ I created a web application that can handle events using MERN stack. Using that 
 
 
 ### Home Page
-![Home Page](https://github.com/pasindu-nawodya/Covid-19-Tracker/blob/master/public/covidss.png)
+![Home Page](https://github.com/pasindu-nawodya/Event-Management-System/blob/master/images/home.png)
 
 ### Add Event
-![covid19-live updater](https://github.com/pasindu-nawodya/Covid-19-Tracker/blob/master/public/country.png)
+![covid19-live updater](https://github.com/pasindu-nawodya/Event-Management-System/blob/master/images/add.png)
 
 ### Event List
-![Add Event](https://github.com/pasindu-nawodya/Covid-19-Tracker/blob/master/public/country.png)
+![Add Event](https://github.com/pasindu-nawodya/Event-Management-System/blob/master/images/operation.png)
 
 ### Event Details
-![Event Details](https://github.com/pasindu-nawodya/Covid-19-Tracker/blob/master/public/country.png)
+![Event Details](https://github.com/pasindu-nawodya/Event-Management-System/blob/master/images/list.png)
 
 ## How to use Application
-![How to use Application](https://github.com/pasindu-nawodya/Covid-19-Tracker/blob/master/public/country.png)
+![How to use Application](https://github.com/pasindu-nawodya/Event-Management-System/blob/master/images/howto.png)
